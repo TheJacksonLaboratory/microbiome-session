@@ -6,6 +6,6 @@ subtitle: The Jackson Laboratory, Farmington, CT
 
 ### User Instances
 
-username: bd2kuser
-password: BD2K2017
+- username: bd2kuser
+- password: BD2K2017
 
