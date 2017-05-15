@@ -25,8 +25,9 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
+  Galaxy: "http://bd2k2017.jax.org/"
   Home: ""
-#  Resources:
+  
 #    - Getting Started: "getstarted"
 #    - User Instances: "user-instances"
 #    - Galaxy: "http://ec2-52-7-85-172.compute-1.amazonaws.com/"
