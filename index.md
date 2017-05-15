@@ -11,7 +11,7 @@ subtitle: The Jackson Laboratory, Farmington, CT
 
 - To ssh: 
 ```
-ssh bd2kuser@ec2-34-202-235-150.compute-1.amazonaws.com
+ssh bd2kuser@[hostname from below]
 ```
 
 
