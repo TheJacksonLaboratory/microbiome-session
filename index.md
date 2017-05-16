@@ -27,10 +27,10 @@ ssh bd2kuser@[hostname from below]
 | Marico Bryant Howe    | 34.203.248.243 | [jupyter](http://34.203.248.243:8888) | [RStudio](http://34.203.248.243:8787) | [webserver](http://34.203.248.243) | [terminal](http://34.203.248.243:57575) |
 | Nic Blouin            | 52.201.213.142 | [jupyter](http://52.201.213.142:8888) | [RStudio](http://52.201.213.142:8787) | [webserver](http://52.201.213.142) | [terminal](http://52.201.213.142:57575) |
 | Igor Koturbash        | 107.21.22.254  | [jupyter](http://107.21.22.254:8888)  | [RStudio](http://107.21.22.254:8787)  | [webserver](http://107.21.22.254)  | [terminal](http://107.21.22.254:57575)  |
-| Karen Bedard          | 54.209.183.116 | [jupyter](http://54.209.183.116:8888) | [RStudio](http://54.209.183.116:8787) | [webserver](http://54.209.183.116) | [terminal](http://54.209.183.116:57575) |
-| Hong Qin              | 34.224.101.168 | [jupyter](http://34.224.101.168:8888) | [RStudio](http://34.224.101.168:8787) | [webserver](http://34.224.101.168) | [terminal](http://34.224.101.168:57575) |
-| Kimberly Johnson      | 34.201.98.90   | [jupyter](http://34.201.98.90:8888)   | [RStudio](http://34.201.98.90:8787)   | [webserver](http://34.201.98.90)   | [terminal](http://34.201.98.90:57575)   |
-| Dr. David Mu          | 54.197.194.200 | [jupyter](http://54.197.194.200:8888) | [RStudio](http://54.197.194.200:8787) | [webserver](http://54.197.194.200) | [terminal](http://54.197.194.200:57575) |
-| Pedro Miura           | 52.90.229.24   | [jupyter](http://52.90.229.24:8888)   | [RStudio](http://52.90.229.24:8787)   | [webserver](http://52.90.229.24)   | [terminal](http://52.90.229.24:57575)   |
-| Sheng Li              | 34.207.153.155 | [jupyter](http://34.207.153.155:8888) | [RStudio](http://34.207.153.155:8787) | [webserver](http://34.207.153.155) | [terminal](http://34.207.153.155:57575) |
-|                       | 184.72.128.102 | [jupyter](http://184.72.128.102:8888) | [RStudio](http://184.72.128.102:8787) | [webserver](http://184.72.128.102) | [terminal](http://184.72.128.102:57575) |
+| Karen Bedard          | 13.58.95.134   | [jupyter](http://13.58.95.134:8888)   | [RStudio](http://13.58.95.134:8787)   | [webserver](http://13.58.95.134)   | [terminal](http://13.58.95.134:57575)   |
+| Hong Qin              | 52.14.142.206  | [jupyter](http://52.14.142.206:8888)  | [RStudio](http://52.14.142.206:8787)  | [webserver](http://52.14.142.206)  | [terminal](http://52.14.142.206:57575)  |
+| Kimberly Johnson      | 13.58.86.47    | [jupyter](http://13.58.86.47:8888)    | [RStudio](http://13.58.86.47:8787)    | [webserver](http://13.58.86.47)    | [terminal](http://13.58.86.47:57575)    |
+| Dr. David Mu          | 52.14.133.185  | [jupyter](http://52.14.133.185:8888)  | [RStudio](http://52.14.133.185:8787)  | [webserver](http://52.14.133.185)  | [terminal](http://52.14.133.185:57575)  |
+| Pedro Miura           | 13.58.87.31    | [jupyter](http://13.58.87.31:8888)    | [RStudio](http://13.58.87.31:8787)    | [webserver](http://13.58.87.31)    | [terminal](http://13.58.87.31:57575)    |
+| Sheng Li              | 13.58.21.58    | [jupyter](http://13.58.21.58:8888)    | [RStudio](http://13.58.21.58:8787)    | [webserver](http://13.58.21.58)    | [terminal](http://13.58.21.58:57575)    |
+|                       | 52.15.218.17   | [jupyter](http://52.15.218.17:8888)   | [RStudio](http://52.15.218.17:8787)   | [webserver](http://52.15.218.17)   | [terminal](http://52.15.218.17:57575)   |
