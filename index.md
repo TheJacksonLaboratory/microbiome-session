@@ -32,4 +32,4 @@ ssh bd2kuser@[hostname from below]
 | Kimberly Johnson      | 34.239.228.171 | [jupyter](http://34.239.228.171:8888) | [RStudio](http://34.239.228.171:8787) | [webserver](http://34.239.228.171) | [terminal](http://34.239.228.171:57574) |
 | Dr. David Mu          | 34.205.37.194  | [jupyter](http://34.205.37.194:8888)  | [RStudio](http://34.205.37.194:8787)  | [webserver](http://34.205.37.194)  | [terminal](http://34.205.37.194:57574)  |
 | Pedro Miura           | 34.201.28.97   | [jupyter](http://34.201.28.97:8888)   | [RStudio](http://34.201.28.97:8787)   | [webserver](http://34.201.28.97)   | [terminal](http://34.201.28.97:57574)   |
-|                       | 34.204.108.183 | [jupyter](http://34.204.108.183:8888) | [RStudio](http://34.204.108.183:8787) | [webserver](http://34.204.108.183) | [terminal](http://34.204.108.183:57574) |
+| Ada Zhan              | 34.204.108.183 | [jupyter](http://34.204.108.183:8888) | [RStudio](http://34.204.108.183:8787) | [webserver](http://34.204.108.183) | [terminal](http://34.204.108.183:57574) |
