@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Big Genomic Data Skills Training for Graduate Professors
-subtitle: The Jackson Laboratory, Farmington, CT
+title:  Big Genomic Data Skills Training for UG Professors
+subtitle: Bar Harbor, ME
 ---
 
 ### User Instances
