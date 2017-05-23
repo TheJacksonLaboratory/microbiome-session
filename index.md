@@ -16,35 +16,35 @@ ssh bd2kuser@[hostname from below]
 
 | usernames           | hostname       | jupyter                               | rstudio                               | webserver                          | terminal                                |
 |---------------------|----------------|---------------------------------------|---------------------------------------|------------------------------------|-----------------------------------------|
-| Sara Anderson       | 52.206.147.241 | [jupyter](http://52.206.147.241:8888) | [RStudio](http://52.206.147.241:8787) | [webserver](http://52.206.147.241) | [terminal](http://52.206.147.241:57574) |
-| Stokes Baker        | 52.202.49.145  | [jupyter](http://52.202.49.145:8888)  | [RStudio](http://52.202.49.145:8787)  | [webserver](http://52.202.49.145)  | [terminal](http://52.202.49.145:57574)  |
-| Pat Calie           | 75.101.204.239 | [jupyter](http://75.101.204.239:8888) | [RStudio](http://75.101.204.239:8787) | [webserver](http://75.101.204.239) | [terminal](http://75.101.204.239:57574) |
-| Brenda Campbell     | 54.86.19.162   | [jupyter](http://54.86.19.162:8888)   | [RStudio](http://54.86.19.162:8787)   | [webserver](http://54.86.19.162)   | [terminal](http://54.86.19.162:57574)   |
-| John DiPalazzo      | 54.89.114.239  | [jupyter](http://54.89.114.239:8888)  | [RStudio](http://54.89.114.239:8787)  | [webserver](http://54.89.114.239)  | [terminal](http://54.89.114.239:57574)  |
-| Heba Elgazzar       | 54.152.131.108 | [jupyter](http://54.152.131.108:8888) | [RStudio](http://54.152.131.108:8787) | [webserver](http://54.152.131.108) | [terminal](http://54.152.131.108:57574) |
-| Janelle Hare        | 52.90.246.120  | [jupyter](http://52.90.246.120:8888)  | [RStudio](http://52.90.246.120:8787)  | [webserver](http://52.90.246.120)  | [terminal](http://52.90.246.120:57574)  |
-| Ben Harrison        | 54.86.246.161  | [jupyter](http://54.86.246.161:8888)  | [RStudio](http://54.86.246.161:8787)  | [webserver](http://54.86.246.161)  | [terminal](http://54.86.246.161:57574)  |
-| Charles Hauser      | 13.58.12.53    | [jupyter](http://13.58.12.53:8888)    | [RStudio](http://13.58.12.53:8787)    | [webserver](http://13.58.12.53)    | [terminal](http://13.58.12.53:57574)    |
-| Carina Howell       | 13.58.42.53    | [jupyter](http://13.58.42.53:8888)    | [RStudio](http://13.58.42.53:8787)    | [webserver](http://13.58.42.53)    | [terminal](http://13.58.42.53:57574)    |
-| Christopher Jones   | 13.58.73.220   | [jupyter](http://13.58.73.220:8888)   | [RStudio](http://13.58.73.220:8787)   | [webserver](http://13.58.73.220)   | [terminal](http://13.58.73.220:57574)   |
-| Cathy Key           | 13.58.78.31    | [jupyter](http://13.58.78.31:8888)    | [RStudio](http://13.58.78.31:8787)    | [webserver](http://13.58.78.31)    | [terminal](http://13.58.78.31:57574)    |
-| Shawn McCafferty    | 13.58.79.245   | [jupyter](http://13.58.79.245:8888)   | [RStudio](http://13.58.79.245:8787)   | [webserver](http://13.58.79.245)   | [terminal](http://13.58.79.245:57574)   |
-| Karobi Moitra       | 13.58.95.10    | [jupyter](http://13.58.95.10:8888)    | [RStudio](http://13.58.95.10:8787)    | [webserver](http://13.58.95.10)    | [terminal](http://13.58.95.10:57574)    |
-| Leocadia Paliulis   | 13.58.98.59    | [jupyter](http://13.58.98.59:8888)    | [RStudio](http://13.58.98.59:8787)    | [webserver](http://13.58.98.59)    | [terminal](http://13.58.98.59:57574)    |
-| Doug Petcoff        | 13.58.105.112  | [jupyter](http://13.58.105.112:8888)  | [RStudio](http://13.58.105.112:8787)  | [webserver](http://13.58.105.112)  | [terminal](http://13.58.105.112:57574)  |
-| Dawn Reding         | 13.58.109.193  | [jupyter](http://13.58.109.193:8888)  | [RStudio](http://13.58.109.193:8787)  | [webserver](http://13.58.109.193)  | [terminal](http://13.58.109.193:57574)  |
-| Gloria Regisford    | 13.58.117.23   | [jupyter](http://13.58.117.23:8888)   | [RStudio](http://13.58.117.23:8787)   | [webserver](http://13.58.117.23)   | [terminal](http://13.58.117.23:57574)   |
-| Srebrenka Robic     | 13.58.124.171  | [jupyter](http://13.58.124.171:8888)  | [RStudio](http://13.58.124.171:8787)  | [webserver](http://13.58.124.171)  | [terminal](http://13.58.124.171:57574)  |
-| Michael Rubin       | 52.14.27.82    | [jupyter](http://52.14.27.82:8888)    | [RStudio](http://52.14.27.82:8787)    | [webserver](http://52.14.27.82)    | [terminal](http://52.14.27.82:57574)    |
-| Maria Santisteban   | 52.14.169.221  | [jupyter](http://52.14.169.221:8888)  | [RStudio](http://52.14.169.221:8787)  | [webserver](http://52.14.169.221)  | [terminal](http://52.14.169.221:57574)  |
-| Ken Saville         | 52.14.218.35   | [jupyter](http://52.14.218.35:8888)   | [RStudio](http://52.14.218.35:8787)   | [webserver](http://52.14.218.35)   | [terminal](http://52.14.218.35:57574)   |
-| Rebecca Spokony     | 52.14.241.153  | [jupyter](http://52.14.241.153:8888)  | [RStudio](http://52.14.241.153:8787)  | [webserver](http://52.14.241.153)  | [terminal](http://52.14.241.153:57574)  |
-| Dana Talsness       | 52.15.84.95    | [jupyter](http://52.15.84.95:8888)    | [RStudio](http://52.15.84.95:8787)    | [webserver](http://52.15.84.95)    | [terminal](http://52.15.84.95:57574)    |
-| Dina Tandabany      | 52.15.112.83   | [jupyter](http://52.15.112.83:8888)   | [RStudio](http://52.15.112.83:8787)   | [webserver](http://52.15.112.83)   | [terminal](http://52.15.112.83:57574)   |
-| Swarup Tiriveedhi   | 52.15.186.144  | [jupyter](http://52.15.186.144:8888)  | [RStudio](http://52.15.186.144:8787)  | [webserver](http://52.15.186.144)  | [terminal](http://52.15.186.144:57574)  |
-| Arlin Toro          | 52.15.210.48   | [jupyter](http://52.15.210.48:8888)   | [RStudio](http://52.15.210.48:8787)   | [webserver](http://52.15.210.48)   | [terminal](http://52.15.210.48:57574)   |
-| Laura Kelly Vaughan | 52.15.218.17   | [jupyter](http://52.15.218.17:8888)   | [RStudio](http://52.15.218.17:8787)   | [webserver](http://52.15.218.17)   | [terminal](http://52.15.218.17:57574)   |
-| zgolkar             | 54.219.137.14  | [jupyter](http://54.219.137.14:8888)  | [RStudio](http://54.219.137.14:8787)  | [webserver](http://54.219.137.14)  | [terminal](http://54.219.137.14:57574)  |
-| Jeff Chuang         | 54.153.119.157 | [jupyter](http://54.153.119.157:8888) | [RStudio](http://54.153.119.157:8787) | [webserver](http://54.153.119.157) | [terminal](http://54.153.119.157:57574) |
-|                     | 52.53.179.178  | [jupyter](http://52.53.179.178:8888)  | [RStudio](http://52.53.179.178:8787)  | [webserver](http://52.53.179.178)  | [terminal](http://52.53.179.178:57574)  |
-|                     | 54.183.86.56   | [jupyter](http://54.183.86.56:8888)   | [RStudio](http://54.183.86.56:8787)   | [webserver](http://54.183.86.56)   | [terminal](http://54.183.86.56:57574)   |
+| Sara Anderson       | 54.157.30.36   | [jupyter](http://54.157.30.36:8888)   | [RStudio](http://54.157.30.36:8787)   | [webserver](http://54.157.30.36)   | [terminal](http://54.157.30.36:57574)   |
+| Stokes Baker        | 107.23.226.36  | [jupyter](http://107.23.226.36:8888)  | [RStudio](http://107.23.226.36:8787)  | [webserver](http://107.23.226.36)  | [terminal](http://107.23.226.36:57574)  |
+| Pat Calie           | 52.71.86.207   | [jupyter](http://52.71.86.207:8888)   | [RStudio](http://52.71.86.207:8787)   | [webserver](http://52.71.86.207)   | [terminal](http://52.71.86.207:57574)   |
+| Brenda Campbell     | 54.159.244.120 | [jupyter](http://54.159.244.120:8888) | [RStudio](http://54.159.244.120:8787) | [webserver](http://54.159.244.120) | [terminal](http://54.159.244.120:57574) |
+| John DiPalazzo      | 54.83.147.115  | [jupyter](http://54.83.147.115:8888)  | [RStudio](http://54.83.147.115:8787)  | [webserver](http://54.83.147.115)  | [terminal](http://54.83.147.115:57574)  |
+| Heba Elgazzar       | 34.201.219.150 | [jupyter](http://34.201.219.150:8888) | [RStudio](http://34.201.219.150:8787) | [webserver](http://34.201.219.150) | [terminal](http://34.201.219.150:57574) |
+| Janelle Hare        | 52.202.196.213 | [jupyter](http://52.202.196.213:8888) | [RStudio](http://52.202.196.213:8787) | [webserver](http://52.202.196.213) | [terminal](http://52.202.196.213:57574) |
+| Ben Harrison        | 54.91.73.141   | [jupyter](http://54.91.73.141:8888)   | [RStudio](http://54.91.73.141:8787)   | [webserver](http://54.91.73.141)   | [terminal](http://54.91.73.141:57574)   |
+| Charles Hauser      | 52.15.85.235   | [jupyter](http://52.15.85.235:8888)   | [RStudio](http://52.15.85.235:8787)   | [webserver](http://52.15.85.235)   | [terminal](http://52.15.85.235:57574)   |
+| Carina Howell       | 13.58.64.163   | [jupyter](http://13.58.64.163:8888)   | [RStudio](http://13.58.64.163:8787)   | [webserver](http://13.58.64.163)   | [terminal](http://13.58.64.163:57574)   |
+| Christopher Jones   | 52.14.211.64   | [jupyter](http://52.14.211.64:8888)   | [RStudio](http://52.14.211.64:8787)   | [webserver](http://52.14.211.64)   | [terminal](http://52.14.211.64:57574)   |
+| Cathy Key           | 13.59.252.224  | [jupyter](http://13.59.252.224:8888)  | [RStudio](http://13.59.252.224:8787)  | [webserver](http://13.59.252.224)  | [terminal](http://13.59.252.224:57574)  |
+| Shawn McCafferty    | 52.15.203.235  | [jupyter](http://52.15.203.235:8888)  | [RStudio](http://52.15.203.235:8787)  | [webserver](http://52.15.203.235)  | [terminal](http://52.15.203.235:57574)  |
+| Karobi Moitra       | 13.58.63.114   | [jupyter](http://13.58.63.114:8888)   | [RStudio](http://13.58.63.114:8787)   | [webserver](http://13.58.63.114)   | [terminal](http://13.58.63.114:57574)   |
+| Leocadia Paliulis   | 52.14.237.117  | [jupyter](http://52.14.237.117:8888)  | [RStudio](http://52.14.237.117:8787)  | [webserver](http://52.14.237.117)  | [terminal](http://52.14.237.117:57574)  |
+| Doug Petcoff        | 52.14.208.12   | [jupyter](http://52.14.208.12:8888)   | [RStudio](http://52.14.208.12:8787)   | [webserver](http://52.14.208.12)   | [terminal](http://52.14.208.12:57574)   |
+| Dawn Reding         | 52.14.10.209   | [jupyter](http://52.14.10.209:8888)   | [RStudio](http://52.14.10.209:8787)   | [webserver](http://52.14.10.209)   | [terminal](http://52.14.10.209:57574)   |
+| Gloria Regisford    | 52.14.166.120  | [jupyter](http://52.14.166.120:8888)  | [RStudio](http://52.14.166.120:8787)  | [webserver](http://52.14.166.120)  | [terminal](http://52.14.166.120:57574)  |
+| Srebrenka Robic     | 52.15.145.42   | [jupyter](http://52.15.145.42:8888)   | [RStudio](http://52.15.145.42:8787)   | [webserver](http://52.15.145.42)   | [terminal](http://52.15.145.42:57574)   |
+| Michael Rubin       | 52.14.250.196  | [jupyter](http://52.14.250.196:8888)  | [RStudio](http://52.14.250.196:8787)  | [webserver](http://52.14.250.196)  | [terminal](http://52.14.250.196:57574)  |
+| Maria Santisteban   | 52.14.252.23   | [jupyter](http://52.14.252.23:8888)   | [RStudio](http://52.14.252.23:8787)   | [webserver](http://52.14.252.23)   | [terminal](http://52.14.252.23:57574)   |
+| Ken Saville         | 13.59.248.186  | [jupyter](http://13.59.248.186:8888)  | [RStudio](http://13.59.248.186:8787)  | [webserver](http://13.59.248.186)  | [terminal](http://13.59.248.186:57574)  |
+| Rebecca Spokony     | 13.59.253.222  | [jupyter](http://13.59.253.222:8888)  | [RStudio](http://13.59.253.222:8787)  | [webserver](http://13.59.253.222)  | [terminal](http://13.59.253.222:57574)  |
+| Dana Talsness       | 52.15.233.166  | [jupyter](http://52.15.233.166:8888)  | [RStudio](http://52.15.233.166:8787)  | [webserver](http://52.15.233.166)  | [terminal](http://52.15.233.166:57574)  |
+| Dina Tandabany      | 52.14.248.226  | [jupyter](http://52.14.248.226:8888)  | [RStudio](http://52.14.248.226:8787)  | [webserver](http://52.14.248.226)  | [terminal](http://52.14.248.226:57574)  |
+| Swarup Tiriveedhi   | 52.15.126.228  | [jupyter](http://52.15.126.228:8888)  | [RStudio](http://52.15.126.228:8787)  | [webserver](http://52.15.126.228)  | [terminal](http://52.15.126.228:57574)  |
+| Arlin Toro          | 13.59.250.249  | [jupyter](http://13.59.250.249:8888)  | [RStudio](http://13.59.250.249:8787)  | [webserver](http://13.59.250.249)  | [terminal](http://13.59.250.249:57574)  |
+| Laura Kelly Vaughan | 52.14.93.89    | [jupyter](http://52.14.93.89:8888)    | [RStudio](http://52.14.93.89:8787)    | [webserver](http://52.14.93.89)    | [terminal](http://52.14.93.89:57574)    |
+| zgolkar             | 54.219.172.248 | [jupyter](http://54.219.172.248:8888) | [RStudio](http://54.219.172.248:8787) | [webserver](http://54.219.172.248) | [terminal](http://54.219.172.248:57574) |
+| Jeff Chuang         | 54.183.228.205 | [jupyter](http://54.183.228.205:8888) | [RStudio](http://54.183.228.205:8787) | [webserver](http://54.183.228.205) | [terminal](http://54.183.228.205:57574) |
+|                     | 52.53.208.9    | [jupyter](http://52.53.208.9:8888)    | [RStudio](http://52.53.208.9:8787)    | [webserver](http://52.53.208.9)    | [terminal](http://52.53.208.9:57574)    |
+|                     | 54.153.89.111  | [jupyter](http://54.153.89.111:8888)  | [RStudio](http://54.153.89.111:8787)  | [webserver](http://54.153.89.111)  | [terminal](http://54.153.89.111:57574)  |
