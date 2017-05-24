@@ -45,6 +45,6 @@ ssh bd2kuser@[hostname from below]
 | Arlin Toro          | 52.15.149.249  | [jupyter](http://52.15.149.249:8888)  | [RStudio](http://52.15.149.249:8787)  | [webserver](http://52.15.149.249)  | [terminal](http://52.15.149.249:57574)  |
 | Laura Kelly Vaughan | 52.14.223.68   | [jupyter](http://52.14.223.68:8888)   | [RStudio](http://52.14.223.68:8787)   | [webserver](http://52.14.223.68)   | [terminal](http://52.14.223.68:57574)   |
 | zgolkar             | 54.183.225.166 | [jupyter](http://54.183.225.166:8888) | [RStudio](http://54.183.225.166:8787) | [webserver](http://54.183.225.166) | [terminal](http://54.183.225.166:57574) |
-| Jeff Chuang         | 54.67.104.255  | [jupyter](http://54.67.104.255:8888)  | [RStudio](http://54.67.104.255:8787)  | [webserver](http://54.67.104.255)  | [terminal](http://54.67.104.255:57574)  |
+| Ada Zhan         | 54.67.104.255  | [jupyter](http://54.67.104.255:8888)  | [RStudio](http://54.67.104.255:8787)  | [webserver](http://54.67.104.255)  | [terminal](http://54.67.104.255:57574)  |
 |                     | 54.183.224.164 | [jupyter](http://54.183.224.164:8888) | [RStudio](http://54.183.224.164:8787) | [webserver](http://54.183.224.164) | [terminal](http://54.183.224.164:57574) |
 |                     | 54.153.54.249  | [jupyter](http://54.153.54.249:8888)  | [RStudio](http://54.153.54.249:8787)  | [webserver](http://54.153.54.249)  | [terminal](http://54.153.54.249:57574)  |
