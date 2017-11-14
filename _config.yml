@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://thejacksonlaboratory.github.io/neurogenetics-workshop/"
-baseurl: "/neurogenetics-workshop"
+url: "https://thejacksonlaboratory.github.io/microbiome-session/"
+baseurl: "/microbiome-session"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -25,7 +25,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Galaxy: "http://bd2k2017.jax.org/"
+  16S Session: "https://thejacksonlaboratory.github.io/microbiome-workshop/"
   Home: ""
   
 #    - Getting Started: "getstarted"
