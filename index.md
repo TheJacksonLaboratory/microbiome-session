@@ -5,9 +5,11 @@ subtitle: JAX Genomic Medicine, Farmington CT
 ---
 
  
-Dropbox Link is here
+**Dropbox Link**
 https://www.dropbox.com/sh/82rlooh7pprg1xd/AAAV95zWMtDDce9mR3dfFnuJa?dl=0
-or shortened form
+
+
+**Shortened URL**
 https://tinyurl.com/JAX-microbiome-workshop
  
  
