@@ -4,16 +4,14 @@ title:  Introduction to Microbial Community Analysis
 subtitle: JAX Genomic Medicine, Farmington CT
 ---
 
+ 
+Dropbox Link is here
+https://www.dropbox.com/sh/82rlooh7pprg1xd/AAAV95zWMtDDce9mR3dfFnuJa?dl=0
+or shortened form
+https://tinyurl.com/JAX-microbiome-workshop
+ 
+ 
 ### User Instances
-
-- username: bd2kuser
-- password: BD2K2017
-
-- To ssh: 
-```
-ssh bd2kuser@[hostname from below]
-```
-
 
 | Usernames        | Hostname       | Terminal 1                                                       | Terminal 2                                                       | Rstudio                               | Jupyter                                                |
 |------------------|----------------|------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------|
