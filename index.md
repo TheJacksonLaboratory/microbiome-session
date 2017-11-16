@@ -9,10 +9,14 @@ subtitle: JAX Genomic Medicine, Farmington CT
   [Dropbox Link](https://www.dropbox.com/sh/82rlooh7pprg1xd/AAAV95zWMtDDce9mR3dfFnuJa?dl=0)
 
 
-  **Shortened URL:** [https://tinyurl.com/JAX-microbiome-workshop](https://tinyurl.com/JAX-microbiome-workshop)
+  Shortened URL: [https://tinyurl.com/JAX-microbiome-workshop](https://tinyurl.com/JAX-microbiome-workshop)
  
  
 ### User Instances
+
+- username: ubuntu
+- password: ubuntu
+
 
 | Usernames        | Hostname       | Terminal 1                                                       | Terminal 2                                                       | Rstudio                               | Jupyter                                                |
 |------------------|----------------|------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------|
