@@ -13,6 +13,8 @@ subtitle: JAX Genomic Medicine, Farmington CT
 ```
 ssh bd2kuser@[hostname from below]
 ```
+
+
 | Usernames        | Hostname       | Terminal 1                                                       | Terminal 2                                                       | Rstudio                               | Jupyter                                                |
 |------------------|----------------|------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------|
 | Jim Fahey        | 34.235.123.253 | [Terminal 1](http://34.235.123.253:8888/home/ubuntu/terminals/1) | [Terminal 2](http://34.235.123.253:8888/home/ubuntu/terminals/2) | [Rstudio](http://34.235.123.253:8787) | [Jupyter](http://34.235.123.253:8888/home/ubuntu/tree) |
